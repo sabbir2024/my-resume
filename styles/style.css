@@ -1,0 +1,149 @@
+/* primary section */
+* {
+    font-family: Open Sans;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    padding: 15px 20px;
+    background: #FD6E0A;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.primary-discripton {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.primary-title {
+    color: #181818;
+}
+
+/* primary discription end */
+
+/* navigratin bar */
+
+nav {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.orange {
+    color: #FD6E0A;
+}
+
+ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    color: #FFFFFF;
+}
+
+ul li {
+    margin-right: 20px;
+}
+
+ul a {
+    text-decoration: none;
+    color: #474747;
+}
+
+/* navigration bar end */
+/* header section */
+
+header {
+    background-color: #FFF8F3;
+    padding-left: 30px;
+}
+
+.header-secton {
+    display: flex;
+    justify-content: space-between;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.profile-info {
+    color: #474747;
+    padding-top: 100px;
+}
+
+
+.profile-img {
+    width: 500px;
+}
+
+main {
+    margin: 90px;
+    text-align: center;
+}
+
+.about-container {
+    border-radius: 10px;
+    background: #FFF8F3;
+
+}
+
+.about-info-containar {
+    display: flex;
+    gap: 40px;
+}
+
+.about-info {
+    margin: auto;
+}
+
+.skils-section {
+    display: flex;
+    gap: 25px;
+    margin: 90px 0;
+}
+
+.skil-containar {
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 5px;
+}
+
+/* Resume section */
+
+.resume-section-controler{
+    display: flex;
+    gap: 30px;
+    text-align: left;
+    padding-right: 30px;
+}
+
+.cv-doenload{
+    margin: 40px;
+}
+
+/* footer section */
+
+footer{
+    background: #FFF8F3;
+    display: flex;
+    padding: 20px 15px;
+}
+
+.connet{
+    padding-right
+    : 90px;
+}
+
+.fa-brands{
+    margin-right: 10px;
+}
+.massage label{
+    display: block;
+    padding-bottom:15px;
+    padding-left: 60px;
+}
